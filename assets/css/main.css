@@ -210,10 +210,12 @@ input, select, textarea {
 
 	h2 {
 		font-size: 2.25rem;
+		font-weight: 500;
 	}
 
 	h3 {
-		font-size: 1.5rem;
+		font-size: 1.75rem;
+		font-weight: 500;
 	}
 
 	h4 {
@@ -8550,7 +8552,7 @@ input, select, textarea {
 		}
 
 		#wrapper > .color5 {
-			background-color: #7794ce;
+			background-color: #E4F4F3;
 		}
 
 		#wrapper > .color6 {
